@@ -45,8 +45,6 @@ voz.Volume = 0
 
 voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlamVyY2ljaW8gY29ycmVjdGFtZW50ZTo=")
 voz.Speak "Jose Velez alias el profe" 
-voz.Speak 
-voz.Speak 
 voz.Speak "SI NO SABE DE PODERES O HEROES NO OPINE ATT : ANONIMATO PERROOO (>-<)/"
 ' De aquí hacia abajo los estudiantes.
 
